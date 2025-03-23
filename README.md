@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey there! Welcome to my GitHub!  
 
-<!--
-**HSheng542/Hsheng542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Who am I?**  
+I'm a **Tech Enthusiast** with a strong passion for **DevOps, Cybersecurity, and Automation**. I love securing applications, automating security processes, and staying ahead of emerging threats!  
 
-Here are some ideas to get you started:
+🔥 **Passions & Interests**  
+- 💡 Always learning and upskilling in **DevOps, automation, and ethical hacking**.  
+- 📖 Exploring **IoT Security** and **Offensive Security techniques**.  
+- 🏆 Aiming to master **DevSecOps** from the ground up!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect!**  
+💬 Open to collaborations, knowledge sharing, and exciting security projects!  
+
+
